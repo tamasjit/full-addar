@@ -1,0 +1,8 @@
+{E:/full adder/fulladder/FAL_tb.v} {1 {vlog -work work -stats=none {E:/full adder/fulladder/FAL_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}}

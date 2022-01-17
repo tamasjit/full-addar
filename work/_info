@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.1
+vFA_tb
+Z0 !s110 1642355899
+!i10b 1
+!s100 PkP>[:2k[4QIYKeJl_5KH1
+IW2Knd^NU_e3E=Lgi`66751
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/full adder
+w1642354234
+8E:/full adder/fulladder/FAL_tb.v
+FE:/full adder/fulladder/FAL_tb.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1642355899.000000
+!s107 E:/full adder/fulladder/FAL_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/full adder/fulladder/FAL_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@f@a_tb
+vFAL
+R0
+!i10b 1
+!s100 =8fNOIO9F0_zbGzKW@4dE3
+IVoG7Qz5DK<OJNbf@l705L2
+R1
+R2
+w1642355893
+8E:/full adder/fulladder/FAL.v
+FE:/full adder/fulladder/FAL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/full adder/fulladder/FAL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/full adder/fulladder/FAL.v|
+!i113 1
+R5
+R6
+n@f@a@l
